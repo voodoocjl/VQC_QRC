@@ -1,0 +1,11 @@
+QRC Features Information
+==============================
+Created: 2025-08-27T23:17:24.254519
+Format: npz
+Feature dimension: 36
+Training samples: 246
+Test samples: 84
+Train features range: [-0.549862, 0.785352]
+Test features range: [-0.377644, 0.778967]
+Train targets range: [0.026993, 1.000000]
+Test targets range: [0.000000, 1.000000]
