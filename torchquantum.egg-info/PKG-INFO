@@ -1,0 +1,43 @@
+Metadata-Version: 2.4
+Name: torchquantum
+Version: 0.2.0
+Summary: Quantum Computing in PyTorch
+Home-page: https://github.com/mit-han-lab/torchquantum
+Author: Shreya Chaudhary, Zhuoyang Ye, Jiannan Cao, Jessica Ding, Jiai Gu, Song Han, Zirui Li, Zhiding Liang, Pengyu Liu, Mohammadreza Tavasoli, Hanrui Wang
+Author-email: hanruiwang.hw@gmail.com
+License: MIT
+Requires-Python: >=3.5
+License-File: LICENSE
+Requires-Dist: dill==0.3.4
+Requires-Dist: matplotlib>=3.3.2
+Requires-Dist: nbsphinx
+Requires-Dist: numpy>=1.19.2
+Requires-Dist: opt_einsum
+Requires-Dist: pathos>=0.2.7
+Requires-Dist: pylatexenc>=2.10
+Requires-Dist: pyscf>=2.0.1
+Requires-Dist: qiskit==1.4.3
+Requires-Dist: recommonmark
+Requires-Dist: qiskit_ibm_runtime
+Requires-Dist: qiskit-aer
+Requires-Dist: scipy>=1.5.2
+Requires-Dist: setuptools>=52.0.0
+Requires-Dist: tensorflow>=2.4.1
+Requires-Dist: torch>=1.8.0
+Requires-Dist: torchdiffeq>=0.2.3
+Requires-Dist: torchpack>=0.3.0
+Requires-Dist: torchquantum>=0.1
+Requires-Dist: torchvision>=0.9.0.dev20210130
+Requires-Dist: tqdm>=4.56.0
+Provides-Extra: doc
+Requires-Dist: nbsphinx; extra == "doc"
+Requires-Dist: recommonmark; extra == "doc"
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
